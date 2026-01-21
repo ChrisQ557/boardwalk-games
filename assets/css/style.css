@@ -102,7 +102,14 @@ h2 {
 #new-games .card,
 #fav-games .card {
     border: none;
-}  
+} 
+
+/* Events */
+
+#discount {
+    background-color: var(--highlight-color);
+    color: white;
+}
 
 /* Footer / contact */
 
